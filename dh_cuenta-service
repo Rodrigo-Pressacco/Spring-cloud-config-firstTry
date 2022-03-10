@@ -1,0 +1,4 @@
+server:
+  port: 8889
+
+message: configuration server is alive!
